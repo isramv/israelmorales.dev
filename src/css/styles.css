@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,700;1,400&family=Work+Sans:wght@500&display=swap');
+
+a {
+    @apply text-blue-500;
+}
+
+a:hover {
+    @apply text-blue-700;
+}
+
+h3 {
+    @apply text-2xl font-mono text-gray-800;
+}
+
+p {
+    @apply text-gray-700;
+}
+
+li {
+    @apply text-gray-700;
+}
