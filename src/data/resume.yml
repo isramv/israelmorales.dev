@@ -1,33 +1,34 @@
-About me:
+about:
+  title: 'About me'
   type: paragraph
-  data: 
+  text: 
     I am a JavaScript, Laravel and Drupal developer, I have been making websites since 2010, 
     I have worked in Brazil, United States and I am currently living and working remotelly from Mexico.
     I am always looking for the next challenge and learn new technical stuff, I have listed my previous 
     post and the slides from my prevoius talks.
     I am also the founder of <a href="arquitect.io">arquitect.io</a> which is close to launch in the 
     beggining of 2021.
-Programing languages:
-  type: list
+programing:  
+  title: 'Programing languages'
   collection:
     - JavaScript
     - PHP
-Frameworks and libraries:
-  type: list
+frameworks:
+  title: 'Frameworks and libraries'
   collection:
     - Laravel
     - Drupal
     - Vue.js
     - React
     - Gatsby JS
-Other techonologies:
-  type: list
+other:
+  title: 'Other technologies'
   collection:
     - CSS
     - SASS
     - HTML
-Experience:
-  type: experience
+experience:
+  title: 'Experience'
   collection:
     - Chromatic:
       dates: 2019 - 2020
@@ -37,21 +38,21 @@ Experience:
       dates: 2015 - 2019
       duties: Drupal Developer.
       description: Some deep explanation of you day to day work.
-Education:
-  type: experience
+education:
+  title: 'Education'
   collection:
     - Universidad de Guadalajara:
       dates: 2005 - 2010
       title: Information technology
       description: I was among the best students
-Languages:
-  type: list
+languages:
+  title: 'Languages'
   collection:
     - English
     - Spanish (Native)
     - Portuguese
-Links:
-  type: icon_list
+links:
+  title: 'Links'
   collection:
     - github:
       url: https:// github.com/isramv
