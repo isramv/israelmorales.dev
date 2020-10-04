@@ -34,28 +34,27 @@ resume:
       - company: Chromatic
         dates: Jul 2019 - current
         jobTitle: 'Sr. Front End Developer.'
-        duties: Drupal theming, accessibility and JavaScript.
-        description: Drupal, Accessibility Developer, JavaScript Developer.
+        description: Drupal Front-end, Accessibility and JavaScript Developer.
       - company: Chapther Three
         dates: Aug 2015 - Jun 2019
         jobTitle: Drupal Developer.
-        description: Drupal custom theme development, and Drupal 7 and 8 Support.
+        description: Drupal Full Stack Developer, Drupal 7 and 8 Support Developer.
       - company: Ooyala
         dates: Feb 2014 - Jul 2015
         jobTitle: Web Developer.
-        description: I was the lead Developer for all the Marketing sites of the startup.
+        description: I was the lead Developer for all the Marketing sites of the startup, incluing their Partner Portal.
       - company: Hewlet Packard
         dates: May 2013 - Jan 2014
         jobTitle: Technical Specialist.
         description: Technical specialist for the HP Partner portal.
       - company: Freelancer (rocket.com.mx)
         dates: Jul 2011 - May 2013
-        jobTitle: Freelancer Web Developer
+        jobTitle: Freelancer Web Developer, WordPress, Drupal and Adwords.
         description: ''
       - company: Instituto Millenium of Brazil
         dates: Jun 2010 - Jun 2011
         jobTitle: Technical Specialist.
-        description: Main web developer of the site imil.org, I was in charge of the SEO and Google Adwords campaing.
+        description: Main web developer of the site imil.org, WordPress theme developer, In charge of the SEO and Google Adwords campaings.
   education:
     title: 'Education'
     collection:

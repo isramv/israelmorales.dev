@@ -39,7 +39,7 @@ export default function PostAndTalks() {
             >
               <h3>{post.title}</h3>
               <div>
-                <a href={post.url} target="_blank">
+                <a href={post.url} target="_blank" rel="noreferrer">
                   {post.url}
                 </a>
               </div>
