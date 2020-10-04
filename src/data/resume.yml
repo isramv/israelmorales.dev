@@ -30,34 +30,34 @@ other:
 experience:
   title: 'Experience'
   collection:
-    - Chromatic:
+    - company: Chromatic
       dates: Jul 2019 - current
       jobTitle: 'Sr. Front End Developer.'
       duties: Drupal theming, accessibility and JavaScript.
       description: Theme Drupal custom themes, working on implementing the wcag on clients.
-    - Chapther Three:
+    - company: Chapther Three
       dates: Aug 2015 - Jun 2019
       jobTitle: Drupal Developer.
       description: Drupal custom theme development, and Drupal 7 and 8 Support.
-    - Ooyala:
+    - company: Ooyala
       dates: Feb 2014 - Jul 2015
       jobTitle: Web Developer.
       description: I was the lead Developer for all the Marketing sites of the startup.
-    - Hewlet Packard:
+    - company: Hewlet Packard
       dates: May 2013 - Jan 2014
       jobTitle: Technical Specialist.
       description: Technical specialist for the HP Partner portal.
-    - Hewlet Packard:
+    - company: Hewlet Packard
       dates: May 2013 - Jan 2014
       jobTitle: Technical Specialist.
       description: Technical specialist for the HP Partner portal.
 education:
   title: 'Education'
   collection:
-    - Universidad de Guadalajara:
+    - title: Universidad de Guadalajara
       dates: 2005 - 2010
-      title: Information technology
-      description: I was among the best students
+      degree: Bachelor degree on Information technology
+      description: ''
 languages:
   title: 'Languages'
   collection:
@@ -67,15 +67,15 @@ languages:
 links:
   title: 'Links'
   collection:
-    - github:
+    - title: github
       url: https:// github.com/isramv
       description: github
       logo: insert svg data here.
-    - linkedin:
+    - title: linkedin
       url: https://linedin.com/isramv
       description: linkedin
       logo: insert SVG here.
-    - twitter:
+    - title: twitter
       url: https://twitter.com/isramv
       description:
       logo: insert svg data.

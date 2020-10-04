@@ -2,6 +2,8 @@ import React from "react"
 import List from "./../components/List"
 import Paragraph from "./../components/Paragraph"
 import Welcome from "./../components/Welcome"
+import Experience from "./../components/Experience"
+import Education from "./../components/Education"
 import { useStaticQuery, graphql } from "gatsby"
 
 export default function Home() {
@@ -17,13 +19,15 @@ export default function Home() {
           education {
             title
             collection {
-              dates
-              description
               title
+              dates
+              degree
+              description
             }
           }
           experience {
             collection {
+              company
               dates
               description
               duties
@@ -46,6 +50,7 @@ export default function Home() {
           links {
             title
             collection {
+              title
               description
               logo
               url
@@ -62,8 +67,6 @@ export default function Home() {
 
   const data = result.allDataYaml.nodes[0]
 
-  console.log(data)
-
   return (
     <>
       <head>
@@ -74,12 +77,16 @@ export default function Home() {
       <body>
         <Welcome />
         <Paragraph data={data.about} />
-        <div className="container mx-auto px-4 md:p-0 md:grid md:gap-2 md:grid-cols-2">
-          <List data={data.frameworks} />
-          <List data={data.programing} />
-          <List data={data.other}/>
-          <List data={data.languages}/>
+        <div className="bg-gray-100 py-4">
+          <div className="container mx-auto px-4 md:p-0 md:grid md:gap-2 md:grid-cols-2">
+            <List data={data.frameworks} />
+            <List data={data.programing} />
+            <List data={data.other} />
+            <List data={data.languages} />
+          </div>
         </div>
+        <Experience data={data.experience} />
+        <Education data={data.education} />
       </body>
     </>
   )
