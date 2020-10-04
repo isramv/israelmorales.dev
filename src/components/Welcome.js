@@ -9,7 +9,7 @@ export default function Welcome(props) {
           <img
             className="rounded-lg w-32 mr-4 shadow-lg"
             src={photo}
-            alt="author photo"
+            alt=''
           />
         </div>
         <div>
