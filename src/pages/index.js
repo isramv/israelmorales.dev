@@ -4,6 +4,7 @@ import Paragraph from "./../components/Paragraph"
 import Welcome from "./../components/Welcome"
 import Experience from "./../components/Experience"
 import Education from "./../components/Education"
+import Links from "./../components/Links"
 import { useStaticQuery, graphql } from "gatsby"
 
 export default function Home() {
@@ -69,25 +70,19 @@ export default function Home() {
 
   return (
     <>
-      <head>
-        <div>
-          <div></div>
+      <Welcome />
+      <Links data={data.links} />
+      <Paragraph data={data.about} />
+      <div className="bg-gray-100 py-4">
+        <div className="container mx-auto px-4 md:p-0 md:grid md:gap-2 md:grid-cols-2">
+          <List data={data.frameworks} />
+          <List data={data.programing} />
+          <List data={data.other} />
+          <List data={data.languages} />
         </div>
-      </head>
-      <body>
-        <Welcome />
-        <Paragraph data={data.about} />
-        <div className="bg-gray-100 py-4">
-          <div className="container mx-auto px-4 md:p-0 md:grid md:gap-2 md:grid-cols-2">
-            <List data={data.frameworks} />
-            <List data={data.programing} />
-            <List data={data.other} />
-            <List data={data.languages} />
-          </div>
-        </div>
-        <Experience data={data.experience} />
-        <Education data={data.education} />
-      </body>
+      </div>
+      <Experience data={data.experience} />
+      <Education data={data.education} />
     </>
   )
 }

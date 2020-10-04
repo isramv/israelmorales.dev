@@ -34,7 +34,7 @@ experience:
       dates: Jul 2019 - current
       jobTitle: 'Sr. Front End Developer.'
       duties: Drupal theming, accessibility and JavaScript.
-      description: Drupal themer, Accessibility Developer, JavaScript Developer.
+      description: Drupal, Accessibility Developer, JavaScript Developer.
     - company: Chapther Three
       dates: Aug 2015 - Jun 2019
       jobTitle: Drupal Developer.
@@ -71,15 +71,15 @@ languages:
 links:
   title: 'Links'
   collection:
-    - title: github
+    - title: isramv
       url: https://github.com/isramv
-      description: ''
+      description: github
       logo: github
-    - title: linkedin
+    - title: isramv
       url: https://linkedin.com/in/isramv
-      description: ''
+      description: linkedin
       logo: linkedin
-    - title: twitter
+    - title: isramv
       url: https://twitter.com/isramv
-      description: ''
+      description: twitter
       logo: twitter
