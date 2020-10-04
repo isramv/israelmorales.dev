@@ -14,6 +14,12 @@ module.exports = {
       options: {
         path: `./src/data`
       }
+    },
+    {
+      resolve: `gatsby-plugin-purgecss`,
+      options: {
+        tailwind: true
+      }
     }
   ],
 }
