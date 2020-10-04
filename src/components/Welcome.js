@@ -3,7 +3,7 @@ import photo from "../../static/images/isramv.jpg"
 
 export default function Welcome(props) {
   return (
-    <div className="bg-green-100 py-4">
+    <div className="bg-green-100 py-4 px-4 md:px-0">
       <div className="container mx-auto md:flex">
         <div className="image-container">
           <img

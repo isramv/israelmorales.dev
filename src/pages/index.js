@@ -27,6 +27,7 @@ export default function Home() {
               dates
               description
               duties
+              jobTitle
             }
             title
           }
@@ -73,10 +74,12 @@ export default function Home() {
       <body>
         <Welcome />
         <Paragraph data={data.about} />
-        <List data={data.programing} />
-        <List data={data.frameworks} />
-        <List data={data.other} />
-        <List data={data.languages} />
+        <div className="container mx-auto px-4 md:p-0 md:grid md:gap-2 md:grid-cols-2">
+          <List data={data.frameworks} />
+          <List data={data.programing} />
+          <List data={data.other}/>
+          <List data={data.languages}/>
+        </div>
       </body>
     </>
   )

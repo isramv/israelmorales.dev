@@ -31,13 +31,14 @@ experience:
   title: 'Experience'
   collection:
     - Chromatic:
-      dates: 2019 - 2020
-      duties: Front End Development.
-      description: Some deep description of your duties.
+      dates: Jul 2019 - current
+      jobTitle: 'Sr. Front End Developer.'
+      duties: Drupal theming, accessibility and JavaScript.
+      description: Theme Drupal custom themes, working on implementing the wcag on clients.
     - Chapther Three:
-      dates: 2015 - 2019
-      duties: Drupal Developer.
-      description: Some deep explanation of you day to day work.
+      dates: Aug 2015 - Jun 2019
+      jobTitle: Drupal Developer.
+      description: Drupal custom theme development, and Drupal 7 and 8 Support.
 education:
   title: 'Education'
   collection:
