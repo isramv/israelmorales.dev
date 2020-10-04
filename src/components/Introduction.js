@@ -14,7 +14,7 @@ export default function Welcome(props) {
         </div>
         <div>
           <h1 className="text-3xl font-mono text-gray-800">
-            Hi I am Israel Morales,
+            <a href="/">Hi I am Israel Morales,</a>
           </h1>
           <h2 className="text-2xl font-mono text-gray-800">
             Sr. Front End Developer

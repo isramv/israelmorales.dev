@@ -1,0 +1,90 @@
+resume:
+  about:
+    title: 'About me'
+    type: paragraph
+    text: 
+      I am a JavaScript, Laravel and Drupal developer, I have been making websites since 2010, 
+      I have worked in Brazil, United States and I am currently living and working remotelly from Mexico.
+      I am always looking for the next challenge and learn new technical stuff, I have listed my previous 
+      post and the slides from my prevoius talks <a href="/posts-and-talks">here</a>.
+      I am also the founder of <a href="arquitect.io">arquitect.io</a> which is close to launch in the 
+      beggining of 2021.
+  programing:  
+    title: 'Programing languages'
+    collection:
+      - JavaScript
+      - PHP
+  frameworks:
+    title: 'Frameworks and libraries'
+    collection:
+      - Laravel
+      - Drupal
+      - Vue.js
+      - React
+      - Gatsby JS
+  other:
+    title: 'Other technologies'
+    collection:
+      - CSS
+      - SASS
+      - HTML
+  experience:
+    title: 'Experience'
+    collection:
+      - company: Chromatic
+        dates: Jul 2019 - current
+        jobTitle: 'Sr. Front End Developer.'
+        duties: Drupal theming, accessibility and JavaScript.
+        description: Drupal, Accessibility Developer, JavaScript Developer.
+      - company: Chapther Three
+        dates: Aug 2015 - Jun 2019
+        jobTitle: Drupal Developer.
+        description: Drupal custom theme development, and Drupal 7 and 8 Support.
+      - company: Ooyala
+        dates: Feb 2014 - Jul 2015
+        jobTitle: Web Developer.
+        description: I was the lead Developer for all the Marketing sites of the startup.
+      - company: Hewlet Packard
+        dates: May 2013 - Jan 2014
+        jobTitle: Technical Specialist.
+        description: Technical specialist for the HP Partner portal.
+      - company: Freelancer (rocket.com.mx)
+        dates: Jul 2011 - May 2013
+        jobTitle: Freelancer Web Developer
+        description: ''
+      - company: Instituto Millenium of Brazil
+        dates: Jun 2010 - Jun 2011
+        jobTitle: Technical Specialist.
+        description: Main web developer of the site imil.org, I was in charge of the SEO and Google Adwords campaing.
+  education:
+    title: 'Education'
+    collection:
+      - title: Universidad de Guadalajara
+        dates: 2005 - 2010
+        degree: Bachelor degree on Information technology
+        description: ''
+  languages:
+    title: 'Languages'
+    collection:
+      - English
+      - Spanish (Native)
+      - Portuguese
+  links:
+    title: 'Links'
+    collection:
+      - title: isramv
+        url: https://github.com/isramv
+        description: github
+        logo: github
+      - title: isramv
+        url: https://linkedin.com/in/isramv
+        description: linkedin
+        logo: linkedin
+      - title: isramv
+        url: https://twitter.com/isramv
+        description: twitter
+        logo: twitter
+      - title: Old blog posts
+        url: /posts-and-talks
+        description: ''
+        logo: ''

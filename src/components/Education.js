@@ -8,7 +8,7 @@ export default function Experience(props) {
                 {props.data.collection.map((item, index) => {
                     const keyString = `${props.data.title.replace(/ /gi, "-")}-${index}`
                     return(
-                        <div key={keyString} className='my-4'>
+                        <div key={keyString} className='mt-4'>
                             <h4 className='text-2xl text-gray-800 font-mono'>{item.title}:</h4>
                             <div className="job-title font-serif">{item.degree}</div>
                             <div className="dates text-sm">{item.dates}</div>

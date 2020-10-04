@@ -1,0 +1,22 @@
+blogPosts:
+  collection:
+    - title: Managing your lando database with PhpStorm, Sequel PRO, and the Command line
+      url: https://chromatichq.com/blog/managing-your-lando-database-phpstorm-sequel-pro-and-command-line
+      published: January 7, 2020
+      topics: Docker, Lando, Drupal
+    - title: Gated Resources Froms with Webform and Token
+      url: https://www.chapterthree.com/blog/gated-resources-forms-webform-and-token
+      published: May 10, 2019
+      topics: Drupal, Front-End, Webform
+    - title: Decoupling Pattern Lab From Your Theme, a City of San Francisco Project
+      url: https://www.chapterthree.com/blog/decoupling-pattern-lab-from-your-theme-a-city-of-san-francisco-project
+      published: November 6, 2018
+      topics: Drupal, Front-End, Pattern Lab, Twig
+    - title: Twig Extensions and Views FTW in Drupal 8
+      url: https://www.chapterthree.com/blog/twig-extensions-and-views-ftw-drupal-8
+      published: August 7, 2016
+      topics: Drupal, Twig, Views, Front-End
+    - title: How to create a ckeditor plugin for Drupal 7
+      url: https://www.chapterthree.com/blog/how-to-create-a-ckeditor-plugin-for-drupal-7
+      published: December 14, 2015
+      topics: Drupal, Front-End, CKEditor, Editorial experience
