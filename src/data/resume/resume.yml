@@ -49,18 +49,18 @@ resume:
         description: Technical specialist for the HP Partner portal.
       - company: Freelancer (rocket.com.mx)
         dates: Jul 2011 - May 2013
-        jobTitle: Freelancer Web Developer, WordPress, Drupal and Adwords.
+        jobTitle: Freelancer Web Developer - WordPress, Drupal, and Adwords.
         description: ''
       - company: Instituto Millenium of Brazil
         dates: Jun 2010 - Jun 2011
         jobTitle: Technical Specialist.
-        description: Main web developer of the site imil.org, WordPress theme developer, In charge of the SEO and Google Adwords campaings.
+        description: Primary web developer of the site imil.org, WordPress theme developer, In charge of the SEO and Google Adwords campaigns.
   education:
     title: 'Education'
     collection:
       - title: Universidad de Guadalajara
         dates: 2005 - 2010
-        degree: Bachelor degree on Information technology
+        degree: Bachelor degree in Information technology
         description: ''
   languages:
     title: 'Languages'
