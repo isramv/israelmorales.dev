@@ -32,7 +32,6 @@ export default function Home() {
                 company
                 dates
                 description
-                duties
                 jobTitle
               }
               title
