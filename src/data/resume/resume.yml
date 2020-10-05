@@ -3,12 +3,12 @@ resume:
     title: 'About me'
     type: paragraph
     text: 
-      I am a JavaScript, Laravel and Drupal developer, I have been making websites since 2010, 
-      I have worked in Brazil, United States and I am currently living and working remotely from Mexico.
-      I am always looking for the next challenge and learn new technical stuff, I have listed my previous 
-      post and the slides from my previous talks <a href="/posts-and-talks">here</a>.
-      I am also the founder of <a href="https://arquitect.io">arquitect.io</a> which is close to launch in the 
-      beginning of 2021.
+      I am a JavaScript, Laravel and Drupal developer. I have been making websites since 2010. 
+      Having worked in Brazil and the United States, I am currently working remotely from Mexico. 
+      I am always looking for the next challenge and love learning new technical stuff. 
+      Here are some of my  <a href="/posts-and-talks">posts and talks</a>. 
+      I am also the founder of <a href="https://arquitect.io">arquitect.io</a> which is scheduled 
+      to launch at the beginning of 2021.
   programing:  
     title: 'Programing languages'
     collection:
@@ -42,7 +42,7 @@ resume:
       - company: Ooyala
         dates: Feb 2014 - Jul 2015
         jobTitle: Web Developer.
-        description: I was the lead Developer for all the Marketing sites of the startup, incluing their Partner Portal.
+        description: I was the lead developer for all the Marketing sites of the startup, including their Partner Portal.
       - company: Hewlet Packard
         dates: May 2013 - Jan 2014
         jobTitle: Technical Specialist.
