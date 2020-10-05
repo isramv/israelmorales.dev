@@ -35,7 +35,7 @@ export default function PostAndTalks() {
           return (
             <div
               key={`post-${index}`}
-              className="rounded-sm shadow-lg p-4 mb-4 bg-white"
+              className="rounded-sm shadow-lg p-4 mb-4 bg-white mx-4 md:mx-0"
             >
               <h3>{post.title}</h3>
               <div>
