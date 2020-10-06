@@ -3,7 +3,7 @@ resume:
     title: 'About me'
     type: paragraph
     text: 
-      I am a JavaScript, Laravel and Drupal developer. I have been making websites since 2010. 
+      I am a JavaScript, Laravel, and Drupal developer. I have been making websites since 2010. 
       Having worked in Brazil and the United States, I am currently working remotely from Mexico. 
       I am always looking for the next challenge and love learning new technical stuff. 
       Here are some of my  <a href="/posts-and-talks">posts and talks</a>. 
@@ -34,33 +34,33 @@ resume:
       - company: Chromatic
         dates: Jul 2019 - current
         jobTitle: 'Sr. Front End Developer.'
-        description: Drupal Front-end, Accessibility and JavaScript Developer.
+        description: Drupal front end, accessibility, and JavaScript developer.
       - company: Chapther Three
         dates: Aug 2015 - Jun 2019
         jobTitle: Drupal Developer.
-        description: Drupal Full Stack Developer, Drupal 7 and 8 Support Developer.
+        description: Drupal full stack developer, Drupal 7 and 8 support developer.
       - company: Ooyala
         dates: Feb 2014 - Jul 2015
         jobTitle: Web Developer.
-        description: I was the lead developer for all the Marketing sites of the startup, including their Partner Portal.
+        description: I was the lead developer for all the marketing sites of the startup, including their Partner Portal.
       - company: Hewlett-Packard
         dates: May 2013 - Jan 2014
         jobTitle: Technical Specialist.
-        description: Technical specialist for the HP Partner portal.
+        description: Technical specialist for the HP Partner Portal.
       - company: Freelancer (rocket.com.mx)
         dates: Jul 2011 - May 2013
-        jobTitle: Freelancer Web Developer - WordPress, Drupal, and Adwords.
+        jobTitle: Freelancer Web Developer - WordPress, Drupal, and Google Adwords.
         description: ''
       - company: Instituto Millenium of Brazil
         dates: Jun 2010 - Jun 2011
         jobTitle: Technical Specialist.
-        description: Primary web developer of the site imil.org, WordPress theme developer, In charge of the SEO and Google Adwords campaigns.
+        description: Primary web developer of the site imil.org, WordPress theme developer, in charge of the SEO and Google Adwords campaigns.
   education:
     title: 'Education'
     collection:
       - title: Universidad de Guadalajara
         dates: 2005 - 2010
-        degree: Bachelor degree in Information technology
+        degree: Bachelor's degree in Information Technology
         description: ''
   languages:
     title: 'Languages'
