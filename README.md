@@ -2,7 +2,6 @@
 
 This repo has the structure to create a site with your resume, and it's easy to customize since a set `yml` files drive it.
 
-
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
@@ -18,4 +17,7 @@ This repo has the structure to create a site with your resume, and it's easy to 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. 
     
 1. **Edit you resume information**
+    
+    To edit the resume information with your own edit:
 
+    `/src/data/resume/resume.yml`
