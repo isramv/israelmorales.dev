@@ -1,6 +1,7 @@
-<h1 align="center">
-  My resume in GatsbyJS
-</h1>
+#  My resume in GatsbyJS
+
+This repo has the structure to create a site with your resume, and it's easy to customize since a set `yml` files drive it.
+
 
 1.  **Start developing.**
 
