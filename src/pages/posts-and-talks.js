@@ -27,10 +27,10 @@ export default function PostAndTalks() {
     <div className="bg-gray-100">
       <Introduction />
       <div className="container mx-auto">
-        <div className='container mx-auto p-2 md:px-0'>
+        <div className='container mx-auto p-2 sm:px-0'>
           <Links />
         </div>
-        <h2 className="text-3xl font-mono text-gray-800 my-2 px-2 md:px-0">
+        <h2 className="text-3xl font-mono text-gray-800 my-2 px-2 sm:px-0">
           Posts and talks:
         </h2>
         {blogPostsArray.map((post, index) => {
