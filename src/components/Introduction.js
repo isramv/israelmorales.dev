@@ -7,7 +7,7 @@ export default function Welcome(props) {
       <div className="container mx-auto md:flex md:items-center">
         <div>
           <img
-            className="mx-auto rounded-md w-24 md:w-32 shadow-lg md:mr-4"
+            className="mx-auto rounded-md w-24 shadow-lg md:mr-4"
             src={photo}
             alt=''
           />
