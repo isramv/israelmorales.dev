@@ -8,7 +8,7 @@ export default function List(props) {
 
   return (
     <>
-      <div className="container mx-auto my-2 md:my-4">
+      <div className="container mx-auto my-2">
         <h3>{props.data.title}:</h3>
         <ul>{listItems}</ul>
       </div>
