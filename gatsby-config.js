@@ -20,6 +20,14 @@ module.exports = {
       options: {
         tailwind: true
       }
+    },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          'G-G8TQF0DFT3'
+        ]
+      }
     }
   ],
 }
