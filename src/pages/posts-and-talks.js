@@ -27,19 +27,21 @@ export default function PostAndTalks() {
     <div className="bg-gray-100">
       <Introduction />
       <div className="container mx-auto">
-        <h2 className="text-3xl font-mono text-gray-800 mt-2 px-4 md:px-0">
+        <div className='container mx-auto p-2 md:px-0'>
+          <Links />
+        </div>
+        <h2 className="text-3xl font-mono text-gray-800 my-2 px-2 md:px-0">
           Posts and talks
         </h2>
-        <Links />
         {blogPostsArray.map((post, index) => {
           return (
             <div
               key={`post-${index}`}
-              className="rounded-sm shadow-lg p-4 mb-4 bg-white mx-4 md:mx-0"
+              className="rounded-sm shadow-lg p-3 mb-4 bg-white mx-2 md:mx-0"
             >
               <h3>{post.title}</h3>
               <div>
-                <a href={post.url} target="_blank" rel="noreferrer">
+                <a className='text-sm' href={post.url} target="_blank" rel="noreferrer">
                   {post.url}
                 </a>
               </div>

@@ -71,19 +71,7 @@ resume:
   links:
     title: 'Links'
     collection:
-      - title: isramv
-        url: https://github.com/isramv
-        description: github
-        logo: github
-      - title: isramv
-        url: https://linkedin.com/in/isramv
-        description: linkedin
-        logo: linkedin
-      - title: isramv
-        url: https://twitter.com/isramv
-        description: twitter
-        logo: twitter
       - title: Old blog posts
         url: /posts-and-talks
-        description: ''
+        description: 'Posts and talks'
         logo: ''

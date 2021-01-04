@@ -36,6 +36,6 @@ export default function Links (props) {
   })
 
   return (
-    <ul>{linksRender}</ul>
+    <ul className='px-2 md:px-0'>{linksRender}</ul>
   )
 }
