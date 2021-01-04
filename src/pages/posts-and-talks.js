@@ -31,7 +31,7 @@ export default function PostAndTalks() {
           <Links />
         </div>
         <h2 className="text-3xl font-mono text-gray-800 my-2 px-2 md:px-0">
-          Posts and talks
+          Posts and talks:
         </h2>
         {blogPostsArray.map((post, index) => {
           return (
