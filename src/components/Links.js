@@ -1,8 +1,8 @@
-import React from "react"
-import "./../../static/icons/brands.svg"
-import { useStaticQuery, graphql } from "gatsby"
+import React from 'react'
+import './../../static/icons/brands.svg'
+import { useStaticQuery, graphql } from 'gatsby'
 
-export default function Links(props) {
+export default function Links (props) {
   const result = useStaticQuery(graphql`
     query MyQuery {
       allResumeYaml {
@@ -29,17 +29,13 @@ export default function Links(props) {
     return (
       <li key={keyString}>
         <a href={item.url}>
-          {item.description} {item.title}
+          {item.description}
         </a>
       </li>
     )
   })
 
   return (
-    <div className="my-4 px-4 md:px-0">
-      <div className="container mx-auto">
-        <ul>{linksRender}</ul>
-      </div>
-    </div>
+    <ul>{linksRender}</ul>
   )
 }

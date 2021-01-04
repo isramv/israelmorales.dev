@@ -72,12 +72,14 @@ export default function Home() {
   return (
     <div className="bg-gray-100">
       <Introduction />
-      <h2 className="container mx-auto text-3xl font-mono text-gray-800 mt-2 px-4 md:px-0">Resume:</h2>
-      <Links />
+      <div className="container mx-auto p-2 md:px-0">
+        <h2 className="text-xl md:text-2xl font-mono text-gray-800">Links:</h2>
+        <Links />
+      </div>
       <Paragraph data={data.about} />
       <Education data={data.education} />
-      <div className="bg-gray-100 py-4">
-        <div className="container mx-auto px-4 md:p-0 md:grid md:gap-2 md:grid-cols-2">
+      <div className="bg-gray-100 p-2 md:px-0">
+        <div className="container mx-auto md:p-0 md:grid md:gap-2 md:grid-cols-2">
           <List data={data.frameworks} />
           <List data={data.programing} />
           <List data={data.other} />

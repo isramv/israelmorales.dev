@@ -2,10 +2,10 @@ import React from "react"
 
 export default function Paragraph(props) {
   return (
-    <div className='py-4 bg-gray-200'>
-      <div className="container mx-auto mb-4 px-4 md:px-0">
-        <h3>{props.data.title}:</h3>
-        <p className="text-lg text-gray-700" dangerouslySetInnerHTML={{__html: props.data.text}}></p>
+    <div className='p-2 md:px-0 bg-gray-200'>
+      <div className="container mx-auto">
+        <h3 className='text-xl md:text-2xl'>{props.data.title}:</h3>
+        <p className="text-md text-gray-700" dangerouslySetInnerHTML={{__html: props.data.text}}></p>
       </div>
     </div>
   )
