@@ -3,11 +3,13 @@ resume:
     title: 'About me'
     type: paragraph
     text:
-      I am a JavaScript, Laravel, and Drupal developer. I have been making
-      websites since 2010. Having worked in Brazil and the United States, I am
-      currently working remotely from Mexico. Here are some of my
-      <a href="/posts-and-talks">posts and talks</a>. I am also the founder of
-      <a href="https://arquitect.io">arquitect.io</a>
+      I am a JavaScript and PHP developer. I love working on web experiences, delivering quality products and optimal 
+      solutions, making all my apps accessible compliant; I have more than ten years of experience doing CMS and 
+      Front-End development. I embrace cultural differences since I have lived and worked in Mexico, Brazil, and the 
+      United States; I enjoy participating in conferences and meeting other developers. Here are some of my
+      <a href="/posts-and-talks">posts and talks</a>.
+      Please refer to <a href="https://rocket.com.mx/">rocket.com.mx</a> to check out work done for other companies as 
+      an independent consultant.
   programing:
     title: 'Programming languages'
     collection:
@@ -20,28 +22,28 @@ resume:
       - Drupal
       - Vue.js
       - React
-      - Gatsby JS
   other:
     title: 'Other technologies'
     collection:
       - CSS
       - SASS
       - HTML
+      - a11y
   experience:
     title: 'Experience'
     collection:
-      - company: Independent Web Developer
-        dates: Jan 2021 - current
-        jobTitle: 'Independent Consultant.'
-        description: Drupal, Laravel and JavaScript.
+      - company: Conference Catalysts
+        dates: Feb 2021 - current
+        jobTitle: 'Sr. Full-Stack Developer'
+        description: PHP and JavaScript Developer, in charge of architect and create web applications <a href="https://conferencecatalysts.com/" rel="nofollow" target="_blank">conferencecatalysts.com</a>.
       - company: Chromatic
-        dates: Jul 2019 - January 2021
+        dates: Jul 2019 - Jan 2021
         jobTitle: 'Sr. Front End Developer.'
-        description: Drupal front end, accessibility, and JavaScript developer.
+        description: Drupal front end, accessibility, and JavaScript developer <a href="https://chromatichq.com/" rel="nofollow" target="_blank"/>chromatichq.com</a>.
       - company: Chapter Three
         dates: Aug 2015 - Jun 2019
         jobTitle: Drupal Developer.
-        description: Drupal full stack developer, Drupal 7 and 8 support developer.
+        description: Drupal full stack developer, Drupal 7 and 8 support developer <a href="https://www.chapterthree.com/">chapterthree.com</a>.
       - company: Ooyala
         dates: Feb 2014 - Jul 2015
         jobTitle: Web Developer.
@@ -49,15 +51,15 @@ resume:
       - company: Hewlett-Packard
         dates: May 2013 - Jan 2014
         jobTitle: Technical Specialist.
-        description: Technical specialist for the HP Partner Portal.
-      - company: Freelancer (rocket.com.mx)
-        dates: Jul 2011 - May 2013
-        jobTitle: Freelancer Web Developer - WordPress, Drupal, and Google Adwords.
-        description: ''
+        description: Technical specialist for the <a href="https://partner.hp.com/" rel="nofollow" target="_blank">HP Partner portal</a>.
+      - company: Independent consultant (rocket.com.mx)
+        dates: Jul 2011 - current
+        jobTitle: Independent consultant.
+        description: 'CMS consultant for WordPress and Drupal <a href="https://rocket.com.mx" target="_blank"  >rocket.com.mx</a>'
       - company: Instituto Millenium of Brazil
         dates: Jun 2010 - Jun 2011
         jobTitle: Technical Specialist.
-        description: Primary web developer of the site imil.org, WordPress theme developer, in charge of the SEO and Google Adwords campaigns.
+        description: Primary web developer of the site imil.org, WordPress theme developer, in charge of the SEO and Google Adwords campaigns <a href="https://www.institutomillenium.org.br/">Instituto Millenium</a>.
   education:
     title: 'Education'
     collection:

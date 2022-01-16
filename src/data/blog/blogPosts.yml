@@ -1,5 +1,8 @@
 blogPosts:
   collection:
+    - title: Intro to PHPStorm live templates
+      url: https://chromatichq.com/insights/intro-phpstorm-live-templates
+      published: February 24, 2021
     - title: Managing your lando database with PhpStorm, Sequel PRO, and the Command line
       url: https://chromatichq.com/blog/managing-your-lando-database-phpstorm-sequel-pro-and-command-line
       published: January 7, 2020
